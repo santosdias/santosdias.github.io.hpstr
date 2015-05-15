@@ -4,11 +4,6 @@ title: Colégio Estadual Santos Dias
 description: ...
 ---
 
-{% capture images %}
-  /images/difamacao.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=1 %}
-
 O Colégio Estadual Santos Dias - CESD - funciona em três turnos: manhã, tarde e noite. 
 
 ﻿## Espaço Físico Escolar
