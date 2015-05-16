@@ -11,6 +11,6 @@ modified:
 
 **Telefone**: (21) 2725-9163​ / 2725-9117
 
-**Endereço**: Rua Floriano Peixoto, s/n - Neves / São Gonçalo
+**Endereço**: Rua Floriano Peixoto, s/n - Neves - São Gonçalo
 
 **E-mail**: secretariasantosdias@gmail.com

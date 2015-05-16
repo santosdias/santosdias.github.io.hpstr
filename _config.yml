@@ -11,8 +11,10 @@ url: https://santosdias.github.io
 owner:
   name:           Colégio Estadual Santos Dias
   avatar:         avatar.jpg
-  bio:            "slogan"
+  bio:            "slogan"/
   email:          secretariasantosdias@gmail.com
+  tel1:           (21) 2725-9163
+  tel2:		        (21) 2725-9117
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
